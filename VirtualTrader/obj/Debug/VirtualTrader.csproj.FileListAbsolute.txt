@@ -1,0 +1,7 @@
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\bin\Debug\VirtualTrader.exe.config
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\bin\Debug\VirtualTrader.exe
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\bin\Debug\VirtualTrader.pdb
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\obj\Debug\VirtualTrader.csproj.AssemblyReference.cache
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\obj\Debug\VirtualTrader.csproj.CoreCompileInputs.cache
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\obj\Debug\VirtualTrader.exe
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\VirtualTrader\obj\Debug\VirtualTrader.pdb

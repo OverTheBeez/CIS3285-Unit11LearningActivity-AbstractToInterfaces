@@ -1,0 +1,2 @@
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\AbstractTrader\obj\Debug\AbstractTrader.csproj.AssemblyReference.cache
+C:\Users\overt\Source\Repos\cis-3285-participation-11-open-closed-tgibbons-css\AbstractTrader\obj\Debug\AbstractTrader.csproj.CoreCompileInputs.cache
